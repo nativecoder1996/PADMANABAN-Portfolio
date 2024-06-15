@@ -42,7 +42,7 @@ Hi there! 👋 I'm a React Native enthusiast with a passion for turning ideas in
 ## 🏆 Featured Projects
 
 * **PRACTILLS:** Comprehensive online training and coaching platform for kids and students.
-    * **Link:** [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.shrewd.practill&hl=en)
+    * **Play Store Link:** [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.shrewd.practill&hl=en)
 
     * **Technologies:** React Native, JavaScript, Node.js, REST API, Redux, JWT
 
