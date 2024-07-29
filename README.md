@@ -28,7 +28,7 @@ Hi there! 👋 I'm a React Native enthusiast with a passion for turning ideas in
     * Led the development of successful e-commerce, service-oriented, and educational apps.
     * Collaborated with cross-functional teams and mentored junior developers.
 
-* **SelfPath (2020-2022) Junior React Native/Mobile app developer.
+* SelfPath (2020-2022) Junior React Native/Mobile app developer.
     * Gained hands-on experience in React Native development.
     * Analyzed business requirements, designed UIs, and assisted in testing.
 
